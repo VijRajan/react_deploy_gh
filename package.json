@@ -2,7 +2,7 @@
     "name": "react-hithub-deploy",
     "private": true,
     "version": "0.0.0",
-    "homepage": "https://VijiRajan.github.io/react_deploy_gh",
+    "homepage": "https://vijrajan.github.io/react_deploy_gh/",
     "type": "module",
     "scripts": {
         "predeploy": "npm run build",
